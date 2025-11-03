@@ -19,9 +19,6 @@
     </nav>
   </header>
 
-  <section class="hero">
-    <img src="images/classroom.jpg" alt="African children in a classroom wearing uniforms">
-    <div class="hero-text">
       <h2>Welcome to Honey Bears International School</h2>
       <p>Building future leaders through quality education and Christian values.</p>
     </div>
