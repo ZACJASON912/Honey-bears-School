@@ -10,7 +10,6 @@
   <header>
     <h1>Honey Bears International School</h1>
     <p class="motto">With God I Will</p>
-    <marquee>Education is Key, Education is Power</marquee>
     <nav>
       <a href="index.html">Home</a>
       <a href="gallery.html">Gallery</a>
