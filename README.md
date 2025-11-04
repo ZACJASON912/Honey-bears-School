@@ -10,12 +10,6 @@
   <header>
     <h1>Honey Bears International School</h1>
     <p class="motto">With God I Will</p>
-    <nav>
-      <a href="index.html">Home</a>
-      <a href="gallery.html">Gallery</a>
-      <a href="about.html">About</a>
-      <a href="contact.html">Contact</a>
-    </nav>
   </header>
 
       <h2>Welcome to Honey Bears International School</h2>
